@@ -747,7 +747,11 @@
   "websites": [
    "https://jetton.fund",
    "https://coinmarketcap.com/currencies/jetton/"
-  ]
+  ],
+  "metadata_labels": {
+    "Owner": ["fake"],
+    "Mintable": ["fake"]
+  }
  },
  {
   "address": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",
